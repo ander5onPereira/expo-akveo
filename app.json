@@ -1,0 +1,12 @@
+{
+  "name": "new-akveo",
+  "displayName": "new-akveo",
+  "expo": {
+    "name": "new-akveo",
+    "slug": "new-akveo",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
